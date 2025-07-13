@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Comprar decoración",
+      "due": "2025-08-01",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "name": "Enviar invitaciones",
+      "due": "2025-07-20",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "name": "Reservar catering",
+      "due": "2025-07-30",
+      "completed": false
+    }
+  ],
+  "guests": [
+    {
+      "id": "1",
+      "name": "Ana Pérez",
+      "people": 3,
+      "confirmed": true
+    },
+    {
+      "id": "2",
+      "name": "ñññ",
+      "people": 2,
+      "confirmed": true
+    },
+    {
+      "id": "3",
+      "name": "María Ruiz",
+      "people": 4,
+      "confirmed": true
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "title": "Mesa de fotos Polaroid",
+      "img": "https://source.unsplash.com/400x300/?polaroid"
+    },
+    {
+      "id": "2",
+      "title": "Photobooth con luces LED",
+      "img": "https://source.unsplash.com/400x300/?photobooth"
+    },
+    {
+      "id": "3",
+      "title": "Decoración floral minimalista",
+      "img": "https://source.unsplash.com/400x300/?flowers"
+    }
+  ]
+}
